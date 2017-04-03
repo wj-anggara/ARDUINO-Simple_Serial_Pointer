@@ -1,5 +1,5 @@
 /*
-  Code for MASTER, please see the srial frame on Code for SLAVE
+  Code for MASTER, please see the serial frame on "Code for SLAVE"
   Simple serial parsing using pointer and read string function and fast reading. 
   Sample code useing arduino mega and using serial 0,1,&2. you can modify for your systems
 
